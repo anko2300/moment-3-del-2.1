@@ -14,4 +14,9 @@ Uppgiften handlar om att skapa ett **remote git-repository** på GitHub med **RE
 4. Kryssade i alternativet till en README.md-fil
 5. Kodade och sparade.
 
+## Klona
+```bash
+git clone https://github.com/anko2300/moment-3-del-2.1.git
+```
+
  <img src="https://github.com/anko2300/moment-3-del-2.1/blob/main/GitHub_Logo_White.png" alt="Github" width="150"/>
