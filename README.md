@@ -8,7 +8,7 @@ Uppgiften handlar om att skapa ett **remote git-repository** på GitHub med **RE
 * Grunder i _Markdown_ för att formatera README-filer. 
 
 ## Hur jag tog mig hit
-1. Först installerade jag Git genom att följa Mattias demonstrerande video..
+1. Först installerade jag Git genom att följa [Mattias demonstrerande video](https://www.youtube.com/watch?v=dzY85kqvFaE&t=914s).
 2. Genomförde en Markdown-tutorial. 
 3. Skapade ett konto, loggade in och skapade ett nytt repository genom att klicka på "New Respository"
 4. Kryssade i alternativet till en README.md-fil
